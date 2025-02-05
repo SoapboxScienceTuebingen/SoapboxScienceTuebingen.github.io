@@ -17,21 +17,23 @@ fascinates them, and why they think they have the most fantastic job in the
 world!
 
 26 July 2025
-{: style="color:gray; font-size: 80%; text-align: center;"}
+{: style="color:green; font-size: 200%; font-weight: bold; text-align: center;"}
 
 ## Speaker call
 
 We are looking for active researchers from STEMM fields (Science, Technology,
 Engineering, Mathematics, and Medicine), including PhD students, postdocs,
 professors, and beyond, who:
+
 •	Are excited about communicating science in an accessible and engaging way.
 •	Are passionate about connecting with a diverse audience.
 •	Identify as a woman or non-binary person.
 
-When: 26 July 2025
-Where: Tübingen town centre
+**When**: 26 July 2025
 
-	APPLY HERE: https://shorturl.at/rQBlN
+**Where**: Tübingen town centre
+
+[APPLY HERE](https://shorturl.at/rQBlN)
 
 ![Soapbox science logo](./assets/soapbox_science_info.png){:style="display:block; margin-left:auto; margin-right:auto"}
 
