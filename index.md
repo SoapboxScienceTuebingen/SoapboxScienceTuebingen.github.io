@@ -49,6 +49,8 @@ professors, and beyond, who:
 
 [soapboxscience.tuebingen@gmail.com](mailto:soapboxscience.tuebingen@gmail.com)
 
-![IMPRS logo](./assets/logo_imprs.png){:style="display:block; margin-left:auto; margin-right:auto"}
-![MPG logo](./assets/logo_mpg-kyb.webp){:style="display:block; margin-left:auto; margin-right:auto"}
-![Uni Tuebingen logo](./assets/logo_uni-tue.png){:style="display:block; margin-left:auto; margin-right:auto"}
+<div style="width: 100%; float: left;">
+    ![IMPRS logo](./assets/logo_imprs.png){:style="width: 33%"}
+    ![MPG logo](./assets/logo_mpg-kyb.webp){:style="width: 33%"}
+    ![Uni Tuebingen logo](./assets/logo_uni-tue.png){:style="width: 33%"}
+</div>
