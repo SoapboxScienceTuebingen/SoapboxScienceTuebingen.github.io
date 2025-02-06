@@ -50,7 +50,9 @@ professors, and beyond, who:
 [soapboxscience.tuebingen@gmail.com](mailto:soapboxscience.tuebingen@gmail.com)
 
 <div style="width: 100%; float: left;">
+
 ![IMPRS logo](./assets/logo_imprs.png){:style="width: 33%"}
 ![MPG logo](./assets/logo_mpg-kyb.webp){:style="width: 33%"}
 ![Uni Tuebingen logo](./assets/logo_uni-tue.png){:style="width: 33%"}
+
 </div>
