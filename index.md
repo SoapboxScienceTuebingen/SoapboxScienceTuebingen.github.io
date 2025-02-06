@@ -51,8 +51,8 @@ professors, and beyond, who:
 
 <div style="width: 100%; float: left;">
 
- <img src="./assets/logo_imprs.png" width="33%" />
- <img src="./assets/logo_mpg-kyb.webp" width="33%" />
- <img src="./assets/logo_uni-tue.png" width="33%" />
+ <img src="./assets/logo_imprs.png" width="30%" />
+ <img src="./assets/logo_mpg-kyb.webp" width="30%" />
+ <img src="./assets/logo_uni-tue.png" width="30%" />
 
 </div>
