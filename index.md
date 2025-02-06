@@ -49,7 +49,7 @@ professors, and beyond, who:
 
 [soapboxscience.tuebingen@gmail.com](mailto:soapboxscience.tuebingen@gmail.com)
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; width=100%; align-items: center;">
 
  <img src="./assets/logo_imprs.png" style="object-fit: contain;" />
  <img src="./assets/logo_mpg-kyb.webp" style="object-fit: contain;" />
