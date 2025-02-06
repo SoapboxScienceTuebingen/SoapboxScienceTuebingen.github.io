@@ -49,10 +49,10 @@ professors, and beyond, who:
 
 [soapboxscience.tuebingen@gmail.com](mailto:soapboxscience.tuebingen@gmail.com)
 
-<div style="width: 100%; float: left;">
+<div style="display: flex; align-items: center;">
 
- <img src="./assets/logo_imprs.png" width="30%" />
- <img src="./assets/logo_mpg-kyb.webp" width="30%" />
- <img src="./assets/logo_uni-tue.png" width="30%" />
+ <img src="./assets/logo_imprs.png" style="object-fit: contain;" />
+ <img src="./assets/logo_mpg-kyb.webp" style="object-fit: contain;" />
+ <img src="./assets/logo_uni-tue.png" style="object-fit: contain;" />
 
 </div>
