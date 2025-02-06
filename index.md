@@ -17,7 +17,7 @@ fascinates them, and why they think they have the most fantastic job in the
 world!
 
 26 July 2025
-{: style="color:green; font-size: 200%; font-weight: bold; text-align: center;"}
+{: style="color:#159957; font-size: 200%; font-weight: bold; text-align: center;"}
 
 ## Speaker call
 
