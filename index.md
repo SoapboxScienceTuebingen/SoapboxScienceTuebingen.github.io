@@ -51,8 +51,8 @@ professors, and beyond, who:
 
 <div style="width: 100%; float: left;">
 
-![IMPRS logo](./assets/logo_imprs.png){:style="width: 33%"}
-![MPG logo](./assets/logo_mpg-kyb.webp){:style="width: 33%"}
-![Uni Tuebingen logo](./assets/logo_uni-tue.png){:style="width: 33%"}
+ <img src="./assets/logo_imprs.png" style="width: 33%" />
+ <img src="./assets/logo_mpg-kyb.webp" style="width: 33%" />
+ <img src="./assets/logo_uni-tue.png" style="width: 33%" />
 
 </div>
