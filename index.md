@@ -50,8 +50,8 @@ professors, and beyond, who:
 
 <div style="display: inline-flex; width=100%; align-items: center;">
 
- <img src="./assets/logo_mpg-kyb.webp" width="32%" style="object-fit: contain;" />
  <img src="./assets/logo_imprs.png" width="32%" style="object-fit: contain;" />
+ <img src="./assets/logo_mpg-kyb.webp" width="32%" style="object-fit: contain;" />
  <img src="./assets/logo_uni-tue.png" width="32%" style="object-fit: contain;" />
 
 </div>
