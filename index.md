@@ -1,4 +1,4 @@
-# Soapbox Science Tuebingen
+# Soapbox Science Tübingen
 
 ## Our mission
 
@@ -41,6 +41,10 @@ professors, and beyond, who:
 
 ## Organising team
 
+- Ben Höltgen
+- Dilsad Er
+- Melanie Stelly
+- Michela Petriconi
 - Monika Lam
 - Susan Fischer
 
