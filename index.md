@@ -18,7 +18,7 @@ world!
 26 July 2025
 {: style="color:#159957; font-size: 200%; font-weight: bold; text-align: center;"}
 
-## Speaker call
+## Speaker call - now closed
 
 We are looking for active researchers from STEMM fields (Science, Technology,
 Engineering, Mathematics, and Medicine), including PhD students, postdocs,
@@ -46,6 +46,7 @@ professors, and beyond, who:
 - Melanie Stelly
 - Michela Petriconi
 - Monika Lam
+- Ritu Roy Chowdhury
 - Susan Fischer
 
 ## Contact
