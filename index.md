@@ -32,8 +32,6 @@ professors, and beyond, who:
 
 **Where**: Tübingen town centre
 
-[APPLY HERE](https://shorturl.at/rQBlN)
-{: style="color:green; font-size: 125%; font-weight: bold; text-align: center;"}
 
 ![Soapbox science logo](./assets/soapbox_science_info.png){:style="display:block; margin-left:auto; margin-right:auto"}
 
