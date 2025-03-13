@@ -28,22 +28,6 @@ world!
 26 July 2025
 {: style="color:#159957; font-size: 200%; font-weight: bold; text-align: center;"}
 
-## Speaker call - now closed
-
-We are looking for active researchers from STEMM fields (Science, Technology,
-Engineering, Mathematics, and Medicine), including PhD students, postdocs,
-professors, and beyond, who:
-
-- Are excited about communicating science in an accessible and engaging way.
-- Are passionate about connecting with a diverse audience.
-- Identify as a woman or non-binary person.
-
-**When**: 26 July 2025
-
-**Where**: Tübingen town centre
-
-
-![Soapbox science logo](./assets/logos/soapbox_science_info.png){:style="display:block; margin-left:auto; margin-right:auto"}
 
 ## Speakers 
 
@@ -52,42 +36,53 @@ professors, and beyond, who:
  <div style="display: inline-flex; width: 100%; align-items: center;">
   <div class="speaker_box">
    <img src="./assets/speakers/AK_speaker.png" />
+    Annalena Kofler
   </div>
   <div class="speaker_box">
    <img src="./assets/speakers/AV_speaker.jpg" />
+    Ana Villar
   </div>
   <div class="speaker_box">
    <img src="./assets/speakers/AW_speaker.jpg" />
+    Alexandra Waldherr
   </div>
   <div class="speaker_box">
    <img src="./assets/speakers/CG_speaker.jpg" />
+    Carolina Guidolin
   </div>
  </div>
 
  <div style="display: inline-flex; width: 100%; align-items: center;">
   <div class="speaker_box">
    <img src="./assets/speakers/CP_speaker.jpg" />
+    Dr Kristina Hopfensberger
   </div>
   <div class="speaker_box">
    <img src="./assets/speakers/HW_speaker.JPG" />
+    Hanna Wierenga
   </div>
   <div class="speaker_box">
    <img src="./assets/speakers/KH_speaker.jpg" />
+    Dr Kristina Hopfensberger
   </div>
   <div class="speaker_box">
    <img src="./assets/speakers/SD_speaker.jpg" />
+    Sisi Deng
   </div>
  </div>
 
  <div style="display: inline-flex; width: 100%; align-items: center;">
   <div class="speaker_box">
    <img src="./assets/speakers/BWL_speaker.jpg" />
+    Dr Inf Dipl-Ing (FH) Bianca Weber-Lewerenz
   </div>
   <div class="speaker_box">
    <img src="./assets/speakers/EB_speaker.jpeg" />
+    Elise Bücklein
   </div>
   <div class="speaker_box">
    <img src="./assets/speakers/GF_speaker.jpeg" />
+    Gesa Freimann
   </div>
  </div>
 </div>
@@ -135,6 +130,22 @@ professors, and beyond, who:
 </div>
 </div>
 
+## Speaker call - now closed
+
+We are looking for active researchers from STEMM fields (Science, Technology,
+Engineering, Mathematics, and Medicine), including PhD students, postdocs,
+professors, and beyond, who:
+
+- Are excited about communicating science in an accessible and engaging way.
+- Are passionate about connecting with a diverse audience.
+- Identify as a woman or non-binary person.
+
+**When**: 26 July 2025
+
+**Where**: Tübingen town centre
+
+
+![Soapbox science logo](./assets/logos/soapbox_science_info.png){:style="display:block; margin-left:auto; margin-right:auto"}
 
 
 ## Contact
