@@ -61,12 +61,23 @@ professors, and beyond, who:
   Michela Petriconi
  </div>
 
+ <div style="object-fit: contain; width: 24%">
+  Monika Lam
+ </div>
+
+  <div style="object-fit: contain; width: 24%">
+  <img src="./assets/Ritu Roy Chowdhury.jpg" />
+  Ritu Roy Chowdhury
+ </div>
+
+  <div style="object-fit: contain; width: 24%">
+  <img src="./assets/susan_fischer.jpg" />
+  Susan Fischer
+ </div>
 
 </div>
 
-- Monika Lam
-- Ritu Roy Chowdhury
-- Susan Fischer
+
 
 ## Contact
 
