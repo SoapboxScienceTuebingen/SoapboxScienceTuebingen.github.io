@@ -40,7 +40,7 @@ professors, and beyond, who:
 ## Organising team
 
 <div style="display: inline-flex; width=100%; align-items: center;">
-
+<div>
  <div style="object-fit: contain; width: 24%">
   <img src="./assets/Ben_Höltgen.jpg" />
   Ben Höltgen
@@ -59,6 +59,7 @@ professors, and beyond, who:
  <div style="object-fit: contain; width: 24%">
   <img src="./assets/Michela_Petriconi.JPG" />
   Michela Petriconi
+ </div>
  </div>
 
 <div>
