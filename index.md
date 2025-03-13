@@ -149,7 +149,7 @@ professors, and beyond, who:
 **Where**: Tübingen town centre
 
 
-![Soapbox science logo](./assets/logos/soapbox_science_info.png){:style="display:block; margin-left:auto; margin-right:auto"}
+![Soapbox science logo](./assets/logos/soapbox_science_call.png){:style="display:block; margin-left:auto; margin-right:auto"}
 
 
 ## Contact
