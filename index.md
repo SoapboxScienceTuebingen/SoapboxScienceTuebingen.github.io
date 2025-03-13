@@ -119,6 +119,7 @@ Tübingen town centre
 
 <div style="display: inline-flex; width: 100%; align-items: center;">
  <div class="speaker_box">
+ <img src="./assets/organisers/moni_Lam.png" />
   Monika Lam
  </div>
 
