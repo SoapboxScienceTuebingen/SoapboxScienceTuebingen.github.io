@@ -39,36 +39,36 @@ professors, and beyond, who:
 
 ## Organising team
 
-<div style="display: inline-flex; width=100%; align-items: center;">
-<div>
- <div style="object-fit: contain; width: 24%">
-  <img src="./assets/Ben_Höltgen.jpg" />
-  Ben Höltgen
+<div style="display: inline-flex; width: 100%; align-items: center;">
+ <div style="width: 100%">
+  <div style="object-fit: contain; width: 24%">
+   <img src="./assets/ben_höltgen.jpg" />
+   Ben Höltgen
+  </div>
+
+  <div style="object-fit: contain; width: 24%">
+   <img src="./assets/er_dilsad.jpg" />
+   Dilsad Er
+  </div>
+
+  <div style="object-fit: contain; width: 24%">
+   <img src="./assets/melanie_stelly.jpg" />
+   Melanie Stelly
+  </div>
+
+  <div style="object-fit: contain; width: 24%">
+   <img src="./assets/michela_petriconi.JPG" />
+   Michela Petriconi
+  </div>
  </div>
 
- <div style="object-fit: contain; width: 24%">
-  <img src="./assets/Er_Dilsad.jpg" />
-  Dilsad Er
- </div>
-
- <div style="object-fit: contain; width: 24%">
-  <img src="./assets/Melanie_Stelly.jpg" />
-  Melanie Stelly
- </div>
-
- <div style="object-fit: contain; width: 24%">
-  <img src="./assets/Michela_Petriconi.JPG" />
-  Michela Petriconi
- </div>
- </div>
-
-<div>
+<div style="width:100%;">
  <div style="object-fit: contain; width: 24%">
   Monika Lam
  </div>
 
   <div style="object-fit: contain; width: 24%">
-  <img src="./assets/Ritu Roy Chowdhury.jpg" />
+  <img src="./assets/ritu_roy_chowdhury.jpg" />
   Ritu Roy Chowdhury
  </div>
 
@@ -76,7 +76,7 @@ professors, and beyond, who:
   <img src="./assets/susan_fischer.jpg" />
   Susan Fischer
  </div>
-
+</div>
 </div>
 
 
