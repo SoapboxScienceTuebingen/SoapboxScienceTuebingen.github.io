@@ -39,7 +39,16 @@ professors, and beyond, who:
 
 ## Organising team
 
-- Ben Höltgen
+<div style="display: inline-flex; width=100%; align-items: center;">
+
+ <div style="object-fit: contain; width: 24%">
+  <img src="./assets/Ben_Höltgen.jpg" />
+  Ben Höltgen
+ </div>
+
+</div>
+
+- 
 - Dilsad Er
 - Melanie Stelly
 - Michela Petriconi
