@@ -39,8 +39,8 @@ professors, and beyond, who:
 
 ## Organising team
 
-<div style="display: inline-flex; width: 100%; align-items: center;">
- <div style="width: 100%">
+<div style="">
+ <div style="display: inline-flex; width: 100%; align-items: center;">
   <div style="object-fit: contain; width: 24%">
    <img src="./assets/ben_höltgen.jpg" />
    Ben Höltgen
@@ -62,7 +62,7 @@ professors, and beyond, who:
   </div>
  </div>
 
-<div style="width:100%;">
+<div style="display: inline-flex; width: 100%; align-items: center;">
  <div style="object-fit: contain; width: 24%">
   Monika Lam
  </div>
