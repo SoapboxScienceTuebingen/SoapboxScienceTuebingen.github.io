@@ -27,7 +27,8 @@ world!
 
 26 July 2025
 {: style="color:#159957; font-size: 200%; font-weight: bold; text-align: center;"}
-
+Tübingen town centre
+{: style="color:#159957; font-size: 200%; font-weight: bold; text-align: center;"}
 
 ## Speakers 
 
