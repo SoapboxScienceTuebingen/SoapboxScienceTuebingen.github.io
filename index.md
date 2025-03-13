@@ -33,7 +33,7 @@ professors, and beyond, who:
 **Where**: Tübingen town centre
 
 
-![Soapbox science logo](./assets/soapbox_science_info.png){:style="display:block; margin-left:auto; margin-right:auto"}
+![Soapbox science logo](./assets/logos/soapbox_science_info.png){:style="display:block; margin-left:auto; margin-right:auto"}
 
 ## Speakers (coming soon)
 
@@ -42,22 +42,22 @@ professors, and beyond, who:
 <div style="">
  <div style="display: inline-flex; width: 100%; align-items: center;">
   <div style="object-fit: contain; width: 20%; text-align: center; margin-left: 2%; margin-right: 2%">
-   <img src="./assets/ben_höltgen.jpg" />
+   <img src="./assets/organisers/ben_höltgen.jpg" />
    Ben Höltgen
   </div>
 
   <div style="object-fit: contain; width: 20%; text-align: center; margin-left: 2%; margin-right: 2%">
-   <img src="./assets/er_dilsad.jpg" />
+   <img src="./assets/organisers/er_dilsad.jpg" />
    Dilsad Er
   </div>
 
   <div style="object-fit: contain; width: 20%; text-align: center; margin-left: 2%; margin-right: 2%">
-   <img src="./assets/melanie_stelly.jpg" />
+   <img src="./assets/organisers/melanie_stelly.jpg" />
    Melanie Stelly
   </div>
 
   <div style="object-fit: contain; width: 20%; text-align: center; margin-left: 2%; margin-right: 2%">
-   <img src="./assets/michela_petriconi.JPG" />
+   <img src="./assets/organisers/michela_petriconi.JPG" />
    Michela Petriconi
   </div>
  </div>
@@ -68,12 +68,12 @@ professors, and beyond, who:
  </div>
 
   <div style="object-fit: contain; width: 20%; text-align: center; margin-left: 2%; margin-right: 2%">
-  <img src="./assets/ritu_roy_chowdhury.jpg" />
+  <img src="./assets/organisers/ritu_roy_chowdhury.jpg" />
   Ritu Roy Chowdhury
  </div>
 
   <div style="object-fit: contain; width: 20%; text-align: center; margin-left: 2%; margin-right: 2%">
-  <img src="./assets/susan_fischer.jpg" />
+  <img src="./assets/organisers/susan_fischer.jpg" />
   Susan Fischer
  </div>
 </div>
@@ -87,8 +87,8 @@ professors, and beyond, who:
 
 <div style="display: inline-flex; width=100%; align-items: center;">
 
- <img src="./assets/logo_imprs.png" width="32%" style="object-fit: contain;" />
- <img src="./assets/logo_mpg-kyb.webp" width="32%" style="object-fit: contain;" />
- <img src="./assets/logo_uni-tue.png" width="32%" style="object-fit: contain;" />
+ <img src="./assets/logos/logo_imprs.png" width="32%" style="object-fit: contain;" />
+ <img src="./assets/logos/logo_mpg-kyb.webp" width="32%" style="object-fit: contain;" />
+ <img src="./assets/logos/logo_uni-tue.png" width="32%" style="object-fit: contain;" />
 
 </div>
