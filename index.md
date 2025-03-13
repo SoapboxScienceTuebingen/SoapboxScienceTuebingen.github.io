@@ -36,30 +36,45 @@ Tübingen town centre
 
  <div style="display: inline-flex; width: 100%; align-items: center;">
   <div class="speaker_box">
-   <img src="./assets/speakers/AK_speaker.png" />
-    Annalena Kofler
+   <img src="./assets/speakers/AW_speaker.jpg" />
+    Alexandra Waldherr
   </div>
   <div class="speaker_box">
    <img src="./assets/speakers/AV_speaker.jpg" />
     Ana Villar
   </div>
   <div class="speaker_box">
-   <img src="./assets/speakers/AW_speaker.jpg" />
-    Alexandra Waldherr
+   <img src="./assets/speakers/AK_speaker.png" />
+    Annalena Kofler
   </div>
+  <div class="speaker_box">
+   <img src="./assets/speakers/BWL_speaker.jpg" />
+    Dr Inf Dipl-Ing (FH) Bianca Weber-Lewerenz
+  </div>
+   </div>
+
+  <div style="display: inline-flex; width: 100%; align-items: center;">
   <div class="speaker_box">
    <img src="./assets/speakers/CG_speaker.jpg" />
     Carolina Guidolin
   </div>
- </div>
-
- <div style="display: inline-flex; width: 100%; align-items: center;">
   <div class="speaker_box">
    <img src="./assets/speakers/CP_speaker.jpg" />
     Dr Christina Preiser
   </div>
+    <div class="speaker_box">
+   <img src="./assets/speakers/EB_speaker.jpeg" />
+    Elise Bücklein
+  </div>
+    <div class="speaker_box">
+   <img src="./assets/speakers/GF_speaker.jpeg" />
+    Gesa Freimann
+  </div>
+  </div>
+      
+ <div style="display: inline-flex; width: 100%; align-items: center;">
   <div class="speaker_box">
-   <img src="./assets/speakers/HW_speaker.JPG" />
+  <img src="./assets/speakers/HW_speaker.JPG" />
     Hanna Wierenga
   </div>
   <div class="speaker_box">
@@ -67,27 +82,15 @@ Tübingen town centre
     Dr Kristina Hopfensberger
   </div>
   <div class="speaker_box">
+    Dr Maydel Fernandez-Alonso
+  </div>
+  <div class="speaker_box">
    <img src="./assets/speakers/SD_speaker.jpg" />
     Sisi Deng
   </div>
  </div>
-
- <div style="display: inline-flex; width: 100%; align-items: center;">
-  <div class="speaker_box">
-   <img src="./assets/speakers/BWL_speaker.jpg" />
-    Dr Inf Dipl-Ing (FH) Bianca Weber-Lewerenz
-  </div>
-  <div class="speaker_box">
-   <img src="./assets/speakers/EB_speaker.jpeg" />
-    Elise Bücklein
-  </div>
-  <div class="speaker_box">
-   <img src="./assets/speakers/GF_speaker.jpeg" />
-    Gesa Freimann
-  </div>
- </div>
 </div>
-
+ 
 
 ## Organising team
 
