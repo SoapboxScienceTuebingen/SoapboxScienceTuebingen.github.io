@@ -55,7 +55,7 @@ world!
  <div style="display: inline-flex; width: 100%; align-items: center;">
   <div class="speaker_box">
    <img src="./assets/speakers/CP_speaker.jpg" />
-    Dr Kristina Hopfensberger
+    Dr Christina Preiser
   </div>
   <div class="speaker_box">
    <img src="./assets/speakers/HW_speaker.JPG" />
