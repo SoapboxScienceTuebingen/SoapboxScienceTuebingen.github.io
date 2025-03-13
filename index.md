@@ -35,7 +35,53 @@ professors, and beyond, who:
 
 ![Soapbox science logo](./assets/logos/soapbox_science_info.png){:style="display:block; margin-left:auto; margin-right:auto"}
 
-## Speakers (coming soon)
+## Speakers 
+
+<div style="">
+
+ <div style="display: inline-flex; width: 100%; align-items: center;">
+  <div style="object-fit: contain; width: 20%; text-align: center; margin-left: 2%; margin-right: 2%">
+   <img src="./assets/speakers/AK_speaker.png" />
+  </div>
+  <div style="object-fit: contain; width: 20%; text-align: center; margin-left: 2%; margin-right: 2%">
+   <img src="./assets/speakers/AV_speaker.jpg" />
+  </div>
+  <div style="object-fit: contain; width: 20%; text-align: center; margin-left: 2%; margin-right: 2%">
+   <img src="./assets/speakers/AW_speaker.jpg" />
+  </div>
+  <div style="object-fit: contain; width: 20%; text-align: center; margin-left: 2%; margin-right: 2%">
+   <img src="./assets/speakers/CG_speaker.jpg" />
+  </div>
+ </div>
+
+ <div style="display: inline-flex; width: 100%; align-items: center;">
+  <div style="object-fit: contain; width: 20%; text-align: center; margin-left: 2%; margin-right: 2%">
+   <img src="./assets/speakers/CP_speaker.jpg" />
+  </div>
+  <div style="object-fit: contain; width: 20%; text-align: center; margin-left: 2%; margin-right: 2%">
+   <img src="./assets/speakers/HW_speaker.JPG" />
+  </div>
+  <div style="object-fit: contain; width: 20%; text-align: center; margin-left: 2%; margin-right: 2%">
+   <img src="./assets/speakers/KH_speaker.jpg" />
+  </div>
+  <div style="object-fit: contain; width: 20%; text-align: center; margin-left: 2%; margin-right: 2%">
+   <img src="./assets/speakers/SD_speaker.jpg" />
+  </div>
+ </div>
+
+ <div style="display: inline-flex; width: 100%; align-items: center;">
+  <div style="object-fit: contain; width: 20%; text-align: center; margin-left: 2%; margin-right: 2%">
+   <img src="./assets/speakers/BWL_speaker.jpg" />
+  </div>
+  <div style="object-fit: contain; width: 20%; text-align: center; margin-left: 2%; margin-right: 2%">
+   <img src="./assets/speakers/EB_speaker.jpeg" />
+  </div>
+  <div style="object-fit: contain; width: 20%; text-align: center; margin-left: 2%; margin-right: 2%">
+   <img src="./assets/speakers/GF_speaker.jpeg" />
+  </div>
+ </div>
+</div>
+
 
 ## Organising team
 
