@@ -46,12 +46,24 @@ professors, and beyond, who:
   Ben Höltgen
  </div>
 
+ <div style="object-fit: contain; width: 24%">
+  <img src="./assets/Er_Dilsad.jpg" />
+  Dilsad Er
+ </div>
+
+ <div style="object-fit: contain; width: 24%">
+  <img src="./assets/Melanie_Stelly.jpg" />
+  Melanie Stelly
+ </div>
+
+ <div style="object-fit: contain; width: 24%">
+  <img src="./assets/Michela_Petriconi.JPG" />
+  Michela Petriconi
+ </div>
+
+
 </div>
 
-- 
-- Dilsad Er
-- Melanie Stelly
-- Michela Petriconi
 - Monika Lam
 - Ritu Roy Chowdhury
 - Susan Fischer
