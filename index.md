@@ -1,5 +1,15 @@
 # Soapbox Science Tübingen
 
+<style type="text/css">
+    .speaker_box {
+        object-fit: cover; 
+        width: 20%; 
+        text-align: center; 
+        margin-left: 2%; 
+        margin-right: 2%;
+    }
+</style>
+
 ## Our mission
 
 Soapbox Science is a novel public outreach platform for promoting women and
@@ -40,43 +50,43 @@ professors, and beyond, who:
 <div style="">
 
  <div style="display: inline-flex; width: 100%; align-items: center;">
-  <div style="object-fit: contain; width: 20%; text-align: center; margin-left: 2%; margin-right: 2%">
+  <div class="speaker_box">
    <img src="./assets/speakers/AK_speaker.png" />
   </div>
-  <div style="object-fit: contain; width: 20%; text-align: center; margin-left: 2%; margin-right: 2%">
+  <div class="speaker_box">
    <img src="./assets/speakers/AV_speaker.jpg" />
   </div>
-  <div style="object-fit: contain; width: 20%; text-align: center; margin-left: 2%; margin-right: 2%">
+  <div class="speaker_box">
    <img src="./assets/speakers/AW_speaker.jpg" />
   </div>
-  <div style="object-fit: contain; width: 20%; text-align: center; margin-left: 2%; margin-right: 2%">
+  <div class="speaker_box">
    <img src="./assets/speakers/CG_speaker.jpg" />
   </div>
  </div>
 
  <div style="display: inline-flex; width: 100%; align-items: center;">
-  <div style="object-fit: contain; width: 20%; text-align: center; margin-left: 2%; margin-right: 2%">
+  <div class="speaker_box">
    <img src="./assets/speakers/CP_speaker.jpg" />
   </div>
-  <div style="object-fit: contain; width: 20%; text-align: center; margin-left: 2%; margin-right: 2%">
+  <div class="speaker_box">
    <img src="./assets/speakers/HW_speaker.JPG" />
   </div>
-  <div style="object-fit: contain; width: 20%; text-align: center; margin-left: 2%; margin-right: 2%">
+  <div class="speaker_box">
    <img src="./assets/speakers/KH_speaker.jpg" />
   </div>
-  <div style="object-fit: contain; width: 20%; text-align: center; margin-left: 2%; margin-right: 2%">
+  <div class="speaker_box">
    <img src="./assets/speakers/SD_speaker.jpg" />
   </div>
  </div>
 
  <div style="display: inline-flex; width: 100%; align-items: center;">
-  <div style="object-fit: contain; width: 20%; text-align: center; margin-left: 2%; margin-right: 2%">
+  <div class="speaker_box">
    <img src="./assets/speakers/BWL_speaker.jpg" />
   </div>
-  <div style="object-fit: contain; width: 20%; text-align: center; margin-left: 2%; margin-right: 2%">
+  <div class="speaker_box">
    <img src="./assets/speakers/EB_speaker.jpeg" />
   </div>
-  <div style="object-fit: contain; width: 20%; text-align: center; margin-left: 2%; margin-right: 2%">
+  <div class="speaker_box">
    <img src="./assets/speakers/GF_speaker.jpeg" />
   </div>
  </div>
@@ -87,38 +97,38 @@ professors, and beyond, who:
 
 <div style="">
  <div style="display: inline-flex; width: 100%; align-items: center;">
-  <div style="object-fit: contain; width: 20%; text-align: center; margin-left: 2%; margin-right: 2%">
+  <div class="speaker_box">
    <img src="./assets/organisers/ben_höltgen.jpg" />
    Ben Höltgen
   </div>
 
-  <div style="object-fit: contain; width: 20%; text-align: center; margin-left: 2%; margin-right: 2%">
+  <div class="speaker_box">
    <img src="./assets/organisers/er_dilsad.jpg" />
    Dilsad Er
   </div>
 
-  <div style="object-fit: contain; width: 20%; text-align: center; margin-left: 2%; margin-right: 2%">
+  <div class="speaker_box">
    <img src="./assets/organisers/melanie_stelly.jpg" />
    Melanie Stelly
   </div>
 
-  <div style="object-fit: contain; width: 20%; text-align: center; margin-left: 2%; margin-right: 2%">
+  <div class="speaker_box">
    <img src="./assets/organisers/michela_petriconi.JPG" />
    Michela Petriconi
   </div>
  </div>
 
 <div style="display: inline-flex; width: 100%; align-items: center;">
- <div style="object-fit: contain; width: 20%; text-align: center; margin-left: 2%; margin-right: 2%">
+ <div class="speaker_box">
   Monika Lam
  </div>
 
-  <div style="object-fit: contain; width: 20%; text-align: center; margin-left: 2%; margin-right: 2%">
+  <div class="speaker_box">
   <img src="./assets/organisers/ritu_roy_chowdhury.jpg" />
   Ritu Roy Chowdhury
  </div>
 
-  <div style="object-fit: contain; width: 20%; text-align: center; margin-left: 2%; margin-right: 2%">
+  <div class="speaker_box">
   <img src="./assets/organisers/susan_fischer.jpg" />
   Susan Fischer
  </div>
