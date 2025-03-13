@@ -63,16 +63,16 @@ professors, and beyond, who:
  </div>
 
 <div style="display: inline-flex; width: 100%; align-items: center;">
- <div style="object-fit: contain; width: 24%">
+ <div style="object-fit: contain; width: 20%; text-align: center; margin-left: 2%; margin-right: 2%">
   Monika Lam
  </div>
 
-  <div style="object-fit: contain; width: 24%">
+  <div style="object-fit: contain; width: 20%; text-align: center; margin-left: 2%; margin-right: 2%">
   <img src="./assets/ritu_roy_chowdhury.jpg" />
   Ritu Roy Chowdhury
  </div>
 
-  <div style="object-fit: contain; width: 24%">
+  <div style="object-fit: contain; width: 20%; text-align: center; margin-left: 2%; margin-right: 2%">
   <img src="./assets/susan_fischer.jpg" />
   Susan Fischer
  </div>
