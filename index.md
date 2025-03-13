@@ -61,6 +61,7 @@ professors, and beyond, who:
   Michela Petriconi
  </div>
 
+<div>
  <div style="object-fit: contain; width: 24%">
   Monika Lam
  </div>
