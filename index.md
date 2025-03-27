@@ -49,7 +49,7 @@ Tübingen town centre
   </div>
   <div class="speaker_box">
    <img src="./assets/speakers/BWL_speaker.jpg" />
-    Dr Inf Dipl-Ing (FH) Bianca Weber-Lewerenz
+    Dr-Ing Dipl-Ing (FH) Bianca Weber-Lewerenz
   </div>
    </div>
 
