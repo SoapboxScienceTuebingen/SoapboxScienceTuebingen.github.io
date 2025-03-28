@@ -130,7 +130,7 @@ Tübingen town centre
  </div>
 
  <div class="speaker_box">
-  <img src="./assets/organisers/rsalma_thalji.jpg" />
+  <img src="./assets/organisers/salma_thalji.jpg" />
   Salma Thalji
  </div>
 
