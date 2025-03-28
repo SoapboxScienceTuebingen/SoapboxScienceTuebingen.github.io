@@ -82,7 +82,7 @@ Tübingen town centre
     Dr Kristina Hopfensberger
   </div>
   <div class="speaker_box">
- <img src="./assets/speakers/MFE_speaker.png" />
+ <img src="./assets/speakers/MFA_speaker.png" />
     Dr Maydel Fernandez-Alonso
   </div>
   <div class="speaker_box">
