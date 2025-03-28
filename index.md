@@ -129,6 +129,11 @@ Tübingen town centre
   Ritu Roy Chowdhury
  </div>
 
+ <div class="speaker_box">
+  <img src="./assets/organisers/rsalma_thalji.jpg" />
+  Salma Thalji
+ </div>
+
   <div class="speaker_box">
   <img src="./assets/organisers/susan_fischer.jpg" />
   Susan Fischer
