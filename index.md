@@ -79,7 +79,7 @@ Tübingen town centre
   </div>
   <div class="speaker_box">
    <img src="./assets/speakers/KH_speaker.jpg" />
-    Dr Kristina Hopfensberger
+    Dr Kristina Hopfensperger
   </div>
   <div class="speaker_box">
  <img src="./assets/speakers/MFA_speaker.png" />
