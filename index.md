@@ -78,8 +78,7 @@ Tübingen town centre
     Hanna Wierenga
   </div>
   <div class="speaker_box">
-   <img src="./assets/speakers/KH_speaker.jpg" />
-    Dr Kristina Hopfensperger
+    Dr Aleya Marzuki
   </div>
   <div class="speaker_box">
  <img src="./assets/speakers/MFA_speaker.png" />
