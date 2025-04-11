@@ -2,11 +2,26 @@
 
 <style type="text/css">
     .speaker_box {
-        object-fit: cover; 
-        width: 20%; 
-        text-align: center; 
-        margin-left: 2%; 
+        object-fit: cover;
+        width: 20%;
+        text-align: center;
+        margin-left: 2%;
         margin-right: 2%;
+    }
+
+    .speaker_text {
+      position: absolute; bottom: 0; left: 0;
+ 
+      width: 100%; padding: 10px;
+      color: #fff; background: rgba(0, 0, 0, 0.5);
+    }
+
+    .speaker_text {
+      visibility: none; opacity: 0;
+      transition: opacity 0.3s;
+    }
+    .speaker_box:hover .speaker_text{
+      visibility: visible; opacity: 1;
     }
 </style>
 
@@ -30,7 +45,7 @@ world!
 Tübingen town centre
 {: style="color:#159957; font-size: 150%; font-weight: bold; text-align: center;"}
 
-## Speakers 
+## Speakers
 
 <div style="">
 
@@ -38,6 +53,12 @@ Tübingen town centre
   <div class="speaker_box">
    <img src="./assets/speakers/AW_speaker.jpg" />
     Alexandra Waldherr
+    <div class="speaker_text">
+    I am a PhD student in Andrei Lupas' group at the Max Planck Institute for
+    Biology, studying protein design with a combination of computer and
+    laboratory methods. My focus lies on non-canonical amino acids, and I am
+    interested in the chemistry of unconventional side chains.
+    </div>
   </div>
   <div class="speaker_box">
    <img src="./assets/speakers/AV_speaker.jpg" />
@@ -71,7 +92,7 @@ Tübingen town centre
     Gesa Freimann
   </div>
   </div>
-      
+
  <div style="display: inline-flex; width: 100%; align-items: center;">
   <div class="speaker_box">
   <img src="./assets/speakers/HW_speaker.JPG" />
@@ -90,7 +111,6 @@ Tübingen town centre
   </div>
  </div>
 </div>
- 
 
 ## Organising team
 
@@ -154,11 +174,7 @@ professors, and beyond, who:
 
 **Where**: Tübingen town centre
 
-
 ![Soapbox science logo](./assets/logos/soapbox_science_call.png){:style="display:block; margin-left:auto; margin-right:auto"}
-
-
-
 
 ## Contact
 
