@@ -77,10 +77,16 @@ Tübingen town centre
   <div class="speaker_box">
    <img src="./assets/speakers/AK_speaker.png" />
     Annalena Kofler
+    <div class="speaker_text" id="speaker_text_ak">
+      I am a PhD student at the Max Planck Institute for Intelligent Systems where I develop machine learning methods to analyze gravitational wave signals resulting from the collision of black holes. 
+    </div>
   </div>
   <div class="speaker_box">
    <img src="./assets/speakers/BWL_speaker.jpg" />
     Dr-Ing Dipl-Ing (FH) Bianca Weber-Lewerenz
+    <div class="speaker_text" id="speaker_text_ak">
+      I am a PhD student at the Max Planck Institute for Intelligent Systems where I develop machine learning methods to analyze gravitational wave signals resulting from the collision of black holes. 
+    </div>
   </div>
    </div>
 
@@ -88,18 +94,30 @@ Tübingen town centre
   <div class="speaker_box">
    <img src="./assets/speakers/CG_speaker.jpg" />
     Carolina Guidolin
+    <div class="speaker_text" id="speaker_text_ak">
+      I am a PhD student at the Max Planck Institute for Intelligent Systems where I develop machine learning methods to analyze gravitational wave signals resulting from the collision of black holes. 
+    </div>
   </div>
   <div class="speaker_box">
    <img src="./assets/speakers/CP_speaker.jpg" />
     Dr Christina Preiser
+    <div class="speaker_text" id="speaker_text_ak">
+      I am a PhD student at the Max Planck Institute for Intelligent Systems where I develop machine learning methods to analyze gravitational wave signals resulting from the collision of black holes. 
+    </div>
   </div>
     <div class="speaker_box">
    <img src="./assets/speakers/EB_speaker.jpeg" />
     Elise Bücklein
+    <div class="speaker_text" id="speaker_text_ak">
+      I am a PhD student at the Max Planck Institute for Intelligent Systems where I develop machine learning methods to analyze gravitational wave signals resulting from the collision of black holes. 
+    </div>
   </div>
     <div class="speaker_box">
    <img src="./assets/speakers/GF_speaker.jpeg" />
     Gesa Freimann
+    <div class="speaker_text" id="speaker_text_ak">
+      I am a PhD student at the Max Planck Institute for Intelligent Systems where I develop machine learning methods to analyze gravitational wave signals resulting from the collision of black holes. 
+    </div>
   </div>
   </div>
 
@@ -107,17 +125,29 @@ Tübingen town centre
   <div class="speaker_box">
   <img src="./assets/speakers/HW_speaker.JPG" />
     Hanna Wierenga
+    <div class="speaker_text" id="speaker_text_ak">
+      I am a PhD student at the Max Planck Institute for Intelligent Systems where I develop machine learning methods to analyze gravitational wave signals resulting from the collision of black holes. 
+    </div>
   </div>
   <div class="speaker_box">
     Dr Aleya Marzuki
+    <div class="speaker_text" id="speaker_text_ak">
+      I am a PhD student at the Max Planck Institute for Intelligent Systems where I develop machine learning methods to analyze gravitational wave signals resulting from the collision of black holes. 
+    </div>
   </div>
   <div class="speaker_box">
  <img src="./assets/speakers/MFA_speaker.png" />
     Dr Maydel Fernandez-Alonso
+    <div class="speaker_text" id="speaker_text_ak">
+      I am a PhD student at the Max Planck Institute for Intelligent Systems where I develop machine learning methods to analyze gravitational wave signals resulting from the collision of black holes. 
+    </div>
   </div>
   <div class="speaker_box">
    <img src="./assets/speakers/SD_speaker.jpg" />
     Sisi Deng
+    <div class="speaker_text" id="speaker_text_ak">
+      I am a PhD student at the Max Planck Institute for Intelligent Systems where I develop machine learning methods to analyze gravitational wave signals resulting from the collision of black holes. 
+    </div>
   </div>
  </div>
 </div>
