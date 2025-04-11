@@ -23,6 +23,7 @@
     }
     .speaker_box:hover .speaker_text{
       visibility: visible; opacity: 1;
+      z-index: 1;
     }
 </style>
 
@@ -55,15 +56,23 @@ Tübingen town centre
    <img src="./assets/speakers/AW_speaker.jpg" />
     Alexandra Waldherr
     <div class="speaker_text" id="speaker_text_aw">
-    I am a PhD student in Andrei Lupas' group at the Max Planck Institute for
-    Biology, studying protein design with a combination of computer and
-    laboratory methods. My focus lies on non-canonical amino acids, and I am
-    interested in the chemistry of unconventional side chains.
+      I am a PhD student in Andrei Lupas' group at the Max Planck Institute for
+      Biology, studying protein design with a combination of computer and
+      laboratory methods. My focus lies on non-canonical amino acids, and I am
+      interested in the chemistry of unconventional side chains.
     </div>
   </div>
   <div class="speaker_box">
    <img src="./assets/speakers/AV_speaker.jpg" />
     Ana Villar
+    <div class="speaker_text" id="speaker_text_av">
+      I am a third-year PhD student in Cancer Biology. Originally from Spain, I did my
+      Master in Tübingen. Now, almost at the end of the PhD I´m looking forward to
+      moving in the neuropsychology field as I fell in love with our minds and their
+      great power on us. At this years’ Tübingen Soapbox Science, I will give a quick
+      view about skin cancer, what is known, what is still not known, interesting
+      facts… Enthusiastic, passionate and empathetic; that is me!
+    </div>
   </div>
   <div class="speaker_box">
    <img src="./assets/speakers/AK_speaker.png" />
