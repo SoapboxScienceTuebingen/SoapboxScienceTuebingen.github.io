@@ -21,7 +21,7 @@
       visibility: none; opacity: 0;
       transition: opacity 0.3s;
     }
-    .speaker_box:hover .speaker_text{
+    .speaker_img:hover .speaker_text{
       visibility: visible; opacity: 1;
       z-index: 1;
     }
@@ -53,7 +53,7 @@ Tübingen town centre
 
  <div style="display: inline-flex; width: 100%; align-items: center;">
   <div class="speaker_box" id="speaker_box_aw">
-   <img src="./assets/speakers/AW_speaker.jpg" />
+   <img class="speaker_img" src="./assets/speakers/AW_speaker.jpg" />
     Alexandra Waldherr
     <div class="speaker_text" id="speaker_text_aw">
       I am a PhD student in Andrei Lupas' group at the Max Planck Institute for
@@ -63,7 +63,7 @@ Tübingen town centre
     </div>
   </div>
   <div class="speaker_box">
-   <img src="./assets/speakers/AV_speaker.jpg" />
+   <img class="speaker_img" src="./assets/speakers/AV_speaker.jpg" />
     Ana Villar
     <div class="speaker_text" id="speaker_text_av">
       I am a third-year PhD student in Cancer Biology. Originally from Spain, I did my
@@ -75,78 +75,121 @@ Tübingen town centre
     </div>
   </div>
   <div class="speaker_box">
-   <img src="./assets/speakers/AK_speaker.png" />
+   <img class="speaker_img" src="./assets/speakers/AK_speaker.png" />
     Annalena Kofler
     <div class="speaker_text" id="speaker_text_ak">
-      I am a PhD student at the Max Planck Institute for Intelligent Systems where I develop machine learning methods to analyze gravitational wave signals resulting from the collision of black holes. 
+      I am a PhD student at the Max Planck Institute for Intelligent Systems
+      where I develop machine learning methods to analyze
+      gravitational wave signals resulting from the collision of black
+      holes. 
     </div>
   </div>
   <div class="speaker_box">
-   <img src="./assets/speakers/BWL_speaker.jpg" />
+   <img class="speaker_img" src="./assets/speakers/BWL_speaker.jpg" />
     Dr-Ing Dipl-Ing (FH) Bianca Weber-Lewerenz
-    <div class="speaker_text" id="speaker_text_ak">
-      I am a PhD student at the Max Planck Institute for Intelligent Systems where I develop machine learning methods to analyze gravitational wave signals resulting from the collision of black holes. 
+    <div class="speaker_text" id="speaker_text_bwl">
+     Self-employed civil engineer and freelance scientific researcher on the
+     responsible entrepreneurial handling of digitalisation and AI in
+     the construction industry. I received my PhD at the RWTH Aachen
+     University in 2024 and am the Founder of the ‘Excellence
+     Initiative for Sustainable, Human-led AI in Construction’. 
     </div>
   </div>
    </div>
 
   <div style="display: inline-flex; width: 100%; align-items: center;">
   <div class="speaker_box">
-   <img src="./assets/speakers/CG_speaker.jpg" />
+   <img class="speaker_img" src="./assets/speakers/CG_speaker.jpg" />
     Carolina Guidolin
-    <div class="speaker_text" id="speaker_text_ak">
-      I am a PhD student at the Max Planck Institute for Intelligent Systems where I develop machine learning methods to analyze gravitational wave signals resulting from the collision of black holes. 
+    <div class="speaker_text" id="speaker_text_cg">
+      I am a PhD student in circadian neuroscience, and I am interested in the
+      effect of light on our "body clock". I am looking forward to present my
+      research on the effect of sex hormones on melatonin suppression in the evening!
     </div>
   </div>
   <div class="speaker_box">
-   <img src="./assets/speakers/CP_speaker.jpg" />
+   <img class="speaker_img" src="./assets/speakers/CP_speaker.jpg" />
     Dr Christina Preiser
-    <div class="speaker_text" id="speaker_text_ak">
-      I am a PhD student at the Max Planck Institute for Intelligent Systems where I develop machine learning methods to analyze gravitational wave signals resulting from the collision of black holes. 
+    <div class="speaker_text" id="speaker_text_cp">
+      I am a sociologist who does research in occupational medicine on the
+      prevention of work-related cancers in agriculture and
+      construction and at this years’ Tübingen Soapbox Science event I
+      will talk about the prevention of skin cancer.
     </div>
   </div>
     <div class="speaker_box">
-   <img src="./assets/speakers/EB_speaker.jpeg" />
+   <img class="speaker_img" src="./assets/speakers/EB_speaker.jpeg" />
     Elise Bücklein
-    <div class="speaker_text" id="speaker_text_ak">
-      I am a PhD student at the Max Planck Institute for Intelligent Systems where I develop machine learning methods to analyze gravitational wave signals resulting from the collision of black holes. 
+    <div class="speaker_text" id="speaker_text_eb">
+      I am currently a PhD candidate at the Faculty of Medicine
+      (Psychiatry) at the University of Tübingen and part of the
+      IRTG2804, a research training group with the goal of
+      understanding women’s mental health across the reproductive
+      years. While my field of expertise is premenstrual dysphoric
+      disorder (a severe form of PMS) and depression in women, I am
+      passionate about researching women’s (mental) health in general
+      because it has been overlooked for so long in science, and there
+      is still so much we don’t know! The potential to improve the
+      lives of millions of women through further research in this
+      field is truly endless.
     </div>
   </div>
     <div class="speaker_box">
-   <img src="./assets/speakers/GF_speaker.jpeg" />
+   <img class="speaker_img" src="./assets/speakers/GF_speaker.jpeg" />
     Gesa Freimann
-    <div class="speaker_text" id="speaker_text_ak">
-      I am a PhD student at the Max Planck Institute for Intelligent Systems where I develop machine learning methods to analyze gravitational wave signals resulting from the collision of black holes. 
+    <div class="speaker_text" id="speaker_text_gf">
+      I am a first-year PhD student at the Max Planck Institute for
+      Biology in Tübingen. My research focuses on exploring the
+      dynamic behavior of proteins involved in signal transduction
+      using computational methods. In my free time, I like to relax
+      with a good board game or find my zen through yoga.
     </div>
   </div>
   </div>
 
  <div style="display: inline-flex; width: 100%; align-items: center;">
   <div class="speaker_box">
-  <img src="./assets/speakers/HW_speaker.JPG" />
+  <img class="speaker_img" src="./assets/speakers/HW_speaker.JPG" />
     Hanna Wierenga
-    <div class="speaker_text" id="speaker_text_ak">
-      I am a PhD student at the Max Planck Institute for Intelligent Systems where I develop machine learning methods to analyze gravitational wave signals resulting from the collision of black holes. 
+    <div class="speaker_text" id="speaker_text_hw">
+      I am doing an interdisciplinary PhD at Psychiatry researching
+      the linkage between gender and mental health and a specific
+      focus on mental health during and after a pregnancy. I will
+      present my research on gender identity across Europe and the
+      linkage to mental health. I am excited to share this relatively
+      niche, yet fascinating scientific field with the general public
+      at this years’ Tübingen Soapbox Science. It is my hope to
+      eventually inspire young female scholars to achieve their
+      scholastic dreams.
     </div>
   </div>
   <div class="speaker_box">
     Dr Aleya Marzuki
-    <div class="speaker_text" id="speaker_text_ak">
-      I am a PhD student at the Max Planck Institute for Intelligent Systems where I develop machine learning methods to analyze gravitational wave signals resulting from the collision of black holes. 
+    <div class="speaker_text" id="speaker_text_am">
     </div>
   </div>
   <div class="speaker_box">
- <img src="./assets/speakers/MFA_speaker.png" />
+ <img class="speaker_img" src="./assets/speakers/MFA_speaker.png" />
     Dr Maydel Fernandez-Alonso
-    <div class="speaker_text" id="speaker_text_ak">
-      I am a PhD student at the Max Planck Institute for Intelligent Systems where I develop machine learning methods to analyze gravitational wave signals resulting from the collision of black holes. 
+    <div class="speaker_text" id="speaker_text_mfa">
+      I'm a postdoctoral researcher at the Max Planck Institute for Biological
+      Cybernetics investigating how light is processed in the visual
+      system to synchronize our internal biological clock with the day
+      and night cycle.
     </div>
   </div>
   <div class="speaker_box">
-   <img src="./assets/speakers/SD_speaker.jpg" />
+   <img class="speaker_img" src="./assets/speakers/SD_speaker.jpg" />
     Sisi Deng
-    <div class="speaker_text" id="speaker_text_ak">
-      I am a PhD student at the Max Planck Institute for Intelligent Systems where I develop machine learning methods to analyze gravitational wave signals resulting from the collision of black holes. 
+    <div class="speaker_text" id="speaker_text_sd">
+      A gynecologist pursuing a PhD at the iFIT Cluster, Faculty of
+      Medicine, University Hospital of Tübingen, I specialize in
+      endometriosis and ovarian cancer research. Through the BMBF
+      ENDO-RELIEF project, I explore disease mechanisms using MALDI
+      imaging, mass spectrometry, and NMR-based metabolomics. At this
+      years’ Tübingen Soapbox Science, I would like to share our
+      latest findings and further raise awareness of endometriosis and
+      my research.
     </div>
   </div>
  </div>
