@@ -20,8 +20,9 @@
     .speaker_text {
       visibility: none; opacity: 0;
       transition: opacity 0.3s;
+      z-index: -1;
     }
-    .speaker_img:hover .speaker_text{
+    .speaker_box:hover .speaker_text{
       visibility: visible; opacity: 1;
       z-index: 1;
     }
