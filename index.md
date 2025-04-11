@@ -7,6 +7,7 @@
         text-align: center;
         margin-left: 2%;
         margin-right: 2%;
+        position: relative;
     }
 
     .speaker_text {
