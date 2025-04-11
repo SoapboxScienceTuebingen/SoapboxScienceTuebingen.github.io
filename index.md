@@ -11,7 +11,7 @@
     }
 
     .speaker_text {
-      position: absolute; top: 50%; left: -25%;
+      position: absolute; top: 50%; left: -50%;
  
       width: 200%; padding: 10px;
       color: #fff; background: rgba(0, 0, 0, 0.75);
@@ -51,10 +51,10 @@ Tübingen town centre
 <div style="">
 
  <div style="display: inline-flex; width: 100%; align-items: center;">
-  <div class="speaker_box">
+  <div class="speaker_box" id="speaker_box_aw">
    <img src="./assets/speakers/AW_speaker.jpg" />
     Alexandra Waldherr
-    <div class="speaker_text">
+    <div class="speaker_text" id="speaker_text_aw">
     I am a PhD student in Andrei Lupas' group at the Max Planck Institute for
     Biology, studying protein design with a combination of computer and
     laboratory methods. My focus lies on non-canonical amino acids, and I am
