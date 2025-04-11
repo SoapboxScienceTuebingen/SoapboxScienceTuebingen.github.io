@@ -11,10 +11,10 @@
     }
 
     .speaker_text {
-      position: absolute; bottom: 0; left: 0;
+      position: absolute; top: 50%; left: -25%;
  
-      width: 100%; padding: 10px;
-      color: #fff; background: rgba(0, 0, 0, 0.5);
+      width: 200%; padding: 10px;
+      color: #fff; background: rgba(0, 0, 0, 0.75);
     }
 
     .speaker_text {
