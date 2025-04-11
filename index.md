@@ -12,7 +12,7 @@
 
     .speaker_text {
       position: absolute; top: 50%; left: -50%;
- 
+      font-size: 80%; 
       width: 200%; padding: 10px;
       color: #fff; background: rgba(0, 0, 0, 0.75);
     }
