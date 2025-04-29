@@ -168,18 +168,7 @@ Tübingen town centre
       <img class="speaker_img" src="./assets/speakers/AM_speaker.jpg" />
     Dr Aleya Marzuki
     <div class="speaker_text" id="speaker_text_am">
-        Obsessive-compulsive disorder (OCD) is a highly debilitating condition
-        marked by fluctuating intrusive thoughts and repetitive actions.
-        Moreover, many people with OCD struggle with feelings of doubt and
-        underconfidence, and this may drive their clinical symptoms. To
-        understand how symptoms fluctuate and relate to underconfidence, I
-        will present a study where participants with OCD are asked to record
-        their symptoms on their mobile phone and play an engaging game over a
-        two-week period. Through this, we successfully mapped how symptoms
-        evolve and fluctuate over time. Fascinatingly, using this gamified
-        smartphone design, we reveal that underconfidence appears to precede
-        severe symptoms of OCD suggesting that feelings of low confidence are
-        a possible target for symptom relief.
+        I am a postdoctoral scientist working in the Universitätsklinikum Tübingen. My research seeks to uncover the cognitive and neural mechanisms driving mental health conditions particularly obsessive-compulsive disorder (OCD). In my talk I will present a study where people with OCD were asked to record their symptoms on their mobile phone and play a short engaging game multiple times over a two-week period. Through this, we successfully mapped how OCD symptoms evolve and fluctuate over time, and how these relate to their performance on the game.
     </div>
   </div>
   <div class="speaker_box">
