@@ -1,4 +1,6 @@
-# Soapbox Science Tübingen
+---
+title: Soapbox Science Tübingen
+---
 
 <style type="text/css">
 
@@ -19,21 +21,9 @@
       position: relative;
   }
 
-  .speaker_text {
-    position: absolute; top: 50%; left: -25%;
-    font-size: 80%; 
-    width: 150%; padding: 10px;
-    color: #fff; background: rgba(0, 0, 0, 0.75);
-  }
-
-  .speaker_text {
-    visibility: none; opacity: 0;
-    transition: opacity 0.3s;
-    z-index: -1;
-  }
-  .speaker_box:hover .speaker_text{
-    visibility: visible; opacity: 1;
-    z-index: 1;
+  .speaker_box:hover img {
+    transform: scale(1.1);
+    filter: grayscale(100%);
   }
 </style>
 
@@ -62,7 +52,9 @@ Tübingen town centre
 <div class="grid_container">
   {% for speaker in site.speakers %}
     <div class="speaker_box">
-      <img src="./assets/speakers/{{ speaker.image }}">
+      <a href='speakers.html#{{ speaker.name | slugify: "latin" }}'>
+        <img src="./assets/speakers/{{ speaker.image }}">
+      </a>
       {{ speaker.name }}
     </div>
   {% endfor %}
