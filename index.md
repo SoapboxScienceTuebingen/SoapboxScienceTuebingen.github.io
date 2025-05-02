@@ -64,6 +64,21 @@ Tübingen town centre
     </div>
   </div>
   <div class="speaker_box">
+      <img class="speaker_img" src="./assets/speakers/AM_speaker.jpg" />
+    Dr Aleya Marzuki
+    <div class="speaker_text" id="speaker_text_am">
+        I am a postdoctoral scientist working in the Universitätsklinikum
+        Tübingen. My research seeks to uncover the cognitive and neural
+        mechanisms driving mental health conditions particularly
+        obsessive-compulsive disorder (OCD). In my talk I will present a
+        study where people with OCD were asked to record their symptoms
+        on their mobile phone and play a short engaging game multiple
+        times over a two-week period. Through this, we successfully
+        mapped how OCD symptoms evolve and fluctuate over time, and how
+        these relate to their performance on the game.
+    </div>
+  </div>
+  <div class="speaker_box">
    <img class="speaker_img" src="./assets/speakers/AV_speaker.jpg" />
     Ana Villar
     <div class="speaker_text" id="speaker_text_av">
@@ -85,6 +100,9 @@ Tübingen town centre
       holes. 
     </div>
   </div>
+   </div>
+
+  <div style="display: inline-flex; width: 100%; align-items: center;">
   <div class="speaker_box">
    <img class="speaker_img" src="./assets/speakers/BWL_speaker.jpg" />
     Dr-Ing Dipl-Ing (FH) Bianca Weber-Lewerenz
@@ -96,9 +114,6 @@ Tübingen town centre
      Initiative for Sustainable, Human-led AI in Construction’. 
     </div>
   </div>
-   </div>
-
-  <div style="display: inline-flex; width: 100%; align-items: center;">
   <div class="speaker_box">
    <img class="speaker_img" src="./assets/speakers/CG_speaker.jpg" />
     Carolina Guidolin
@@ -135,6 +150,9 @@ Tübingen town centre
       field is truly endless.
     </div>
   </div>
+  </div>
+
+ <div style="display: inline-flex; width: 100%; align-items: center;">
     <div class="speaker_box">
    <img class="speaker_img" src="./assets/speakers/GF_speaker.jpeg" />
     Gesa Freimann
@@ -146,9 +164,6 @@ Tübingen town centre
       with a good board game or find my zen through yoga.
     </div>
   </div>
-  </div>
-
- <div style="display: inline-flex; width: 100%; align-items: center;">
   <div class="speaker_box">
   <img class="speaker_img" src="./assets/speakers/HW_speaker.JPG" />
     Hanna Wierenga
@@ -162,13 +177,6 @@ Tübingen town centre
       at this years’ Tübingen Soapbox Science. It is my hope to
       eventually inspire young female scholars to achieve their
       scholastic dreams.
-    </div>
-  </div>
-  <div class="speaker_box">
-      <img class="speaker_img" src="./assets/speakers/AM_speaker.jpg" />
-    Dr Aleya Marzuki
-    <div class="speaker_text" id="speaker_text_am">
-        I am a postdoctoral scientist working in the Universitätsklinikum Tübingen. My research seeks to uncover the cognitive and neural mechanisms driving mental health conditions particularly obsessive-compulsive disorder (OCD). In my talk I will present a study where people with OCD were asked to record their symptoms on their mobile phone and play a short engaging game multiple times over a two-week period. Through this, we successfully mapped how OCD symptoms evolve and fluctuate over time, and how these relate to their performance on the game.
     </div>
   </div>
   <div class="speaker_box">
