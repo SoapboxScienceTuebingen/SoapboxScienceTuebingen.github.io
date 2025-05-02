@@ -1,5 +1,5 @@
 ---
-name: Alexandra Walderr
+name: Alexandra Waldherr
 image: AW_speaker.jpg
 ---
 
