@@ -1,2 +1,7 @@
 theme: jekyll-theme-cayman
 title: Soapbox Science Tuebingen
+collections:
+  speakers:
+    output: true
+  team:
+    output: true
