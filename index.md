@@ -5,20 +5,29 @@ title: Soapbox Science Tübingen
 <style type="text/css">
 
   .grid_container {
-      display: grid;
-      grid-template-columns: repeat(4, 1fr);
-      grid-gap: 3%;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center; /* Center items horizontally */
+      gap: 3%;                /* Use gap instead of margin for spacing */
+      row-gap: 30px;          /* Add this for extra vertical space between rows */
       width: 100%;
-      align-items: center;
       margin-bottom: 75px;
+      align-items: center;    
   }
 
   .speaker_box {
+      flex: 1 1 21%;           /* 4 per row: 100% / 4 = 25%, minus gap */
+      max-width: 23%;          /* Adjust as needed for spacing */
+      box-sizing: border-box;
       object-fit: cover;
       text-align: center;
-      margin-left: 2%;
-      margin-right: 2%;
+      margin-left: 0;          /* Remove old margins */
+      margin-right: 0;
       position: relative;
+  }
+
+  .speaker_box img {
+    margin-bottom: 10px; /* Adjust this value as needed */
   }
 
   .speaker_box:hover img {
