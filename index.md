@@ -56,6 +56,8 @@ world!
 Tübingen town centre
 {: style="color:#159957; font-size: 150%; font-weight: bold; text-align: center;"}
 
+![Soapbox science logo](./assets/logos/schedule_SBS.png){:style="display:block; margin-left:auto; margin-right:auto"}
+
 ## Speakers
 
 <div class="grid_container">
