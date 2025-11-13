@@ -51,25 +51,10 @@ you have been burning to ask. Or simply hear them talk about what
 fascinates them, and why they think they have the most fantastic job in the
 world!
 
-26 July 2025
+11 July 2026
 {: style="color:#159957; font-size: 200%; font-weight: bold; text-align: center;"}
-Tübingen town centre
+Tübingen Holzmarkt
 {: style="color:#159957; font-size: 150%; font-weight: bold; text-align: center;"}
-
-![Soapbox science logo](./assets/logos/schedule_SBS.png){:style="display:block; margin-left:auto; margin-right:auto"}
-
-## Speakers
-
-<div class="grid_container">
-  {% for speaker in site.speakers %}
-    <div class="speaker_box">
-      <a href='speakers.html#{{ speaker.name | slugify: "latin" }}'>
-        <img src="./assets/speakers/{{ speaker.image }}">
-      </a>
-      {{ speaker.name }}
-    </div>
-  {% endfor %}
-</div>
 
 
 ## Organising team
@@ -83,21 +68,21 @@ Tübingen town centre
   {% endfor %}
 </div>
 
-## Speaker call - now closed
+## Previous speakers
 
-We are looking for active researchers from STEMM fields (Science, Technology,
-Engineering, Mathematics, and Medicine), including PhD students, postdocs,
-professors, and beyond, who:
+### 2025
 
-- Are excited about communicating science in an accessible and engaging way.
-- Are passionate about connecting with a diverse audience.
-- Identify as a woman or non-binary person.
+<div class="grid_container">
+  {% for speaker in site.speakers %}
+    <div class="speaker_box">
+      <a href='speakers.html#{{ speaker.name | slugify: "latin" }}'>
+        <img src="./assets/speakers/{{ speaker.image }}">
+      </a>
+      {{ speaker.name }}
+    </div>
+  {% endfor %}
+</div>
 
-**When**: 26 July 2025
-
-**Where**: Tübingen town centre
-
-![Soapbox science logo](./assets/logos/soapbox_science_call.png){:style="display:block; margin-left:auto; margin-right:auto"}
 
 ## Contact
 
