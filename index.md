@@ -56,6 +56,18 @@ world!
 Tübingen Holzmarkt
 {: style="color:#159957; font-size: 150%; font-weight: bold; text-align: center;"}
 
+## Speakers
+
+<div class="grid_container">
+  {% for speaker in site.speakers26 %}
+    <div class="speaker_box">
+      <a href='speakers.html#{{ speaker.name | slugify: "latin" }}'>
+        <img src="./assets/speakers26/{{ speaker.image }}">
+      </a>
+      {{ speaker.name }}
+    </div>
+  {% endfor %}
+</div>
 
 ## Organising team
 
@@ -68,20 +80,9 @@ Tübingen Holzmarkt
   {% endfor %}
 </div>
 
-## Previous speakers
+## Previous years
 
-### 2025
-
-<div class="grid_container">
-  {% for speaker in site.speakers %}
-    <div class="speaker_box">
-      <a href='speakers.html#{{ speaker.name | slugify: "latin" }}'>
-        <img src="./assets/speakers/{{ speaker.image }}">
-      </a>
-      {{ speaker.name }}
-    </div>
-  {% endfor %}
-</div>
+### [July 2025]({{ site.baseurl }}{% link speakers_2025.md %})
 
 
 ## Contact

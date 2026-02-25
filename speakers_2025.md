@@ -1,5 +1,5 @@
 ---
-title: Soapbox Science Tübingen
+title: Soapbox Science Tübingen 2025
 ---
 
 # Speakers
@@ -12,10 +12,10 @@ title: Soapbox Science Tübingen
 
 
 <div>
-  {% for speaker in site.speakers26 %}
+  {% for speaker in site.speakers25 %}
     <h2 id='{{ speaker.name | slugify: "latin"}}'>{{ speaker.name }}</h2>
     <div>
-      <img src="./assets/speakers26/{{ speaker.image }}">
+      <img src="./assets/speakers25/{{ speaker.image }}">
     </div>
     {{ speaker.content }}
   {% endfor %}
