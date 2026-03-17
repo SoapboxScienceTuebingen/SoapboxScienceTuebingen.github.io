@@ -1,10 +1,18 @@
 ---
 name: Naja Faerber
 image: naja_faerber.jpeg
+language: german
 ---
 
-I am in my first year of my PhD at the Max Planck Institute for Biology.  I study the evolution of immune genes in the model plant Arabidopsis thaliana by combining wet lab and computational methods. In my free time, I enjoy reading fiction, cooking a delecious vegan meal and watching handball. 
+<div class="speaker-bio">
+Ich bin im ersten Jahr meiner Promotion am Max-Planck-Institut für Biologie. Ich untersuche die Evolution von Immungenen in der Modellpflanze Arabidopsis thaliana, wobei ich praktische Laborarbeit mit computergestützten Methoden verbinde. In meiner Freizeit lese ich gerne Belletristik, koche leckere vegane Gerichte und schaue Handball.
+</div>
 
-The secret life of plant adaptation: How diversity ensures survival
+<div class="speaker-talk-title">
+    <span class="div-title">{% if page.language == "english" %}TOPIC{% else %}THEMA{% endif %}:</span> 
+Das geheime Leben der Pflanzenanpassung: Wie Vielfalt das Überleben sichert
+</div>
 
-In my talk, I want to highlight the various ways in which plants can adapt to changing environments, especially in the context of (genomic) diversity. I want to highlight the importance of understanding the mechanisms behind adaptation to various stresses, such as pathogens, increased temperature, and drought due to climate change for agriculture, science in general, but also for the society.
+<div class="speaker-talk-description">
+In meinem Vortrag möchte ich die vielfältigen Möglichkeiten aufzeigen, wie sich Pflanzen an veränderte Umweltbedingungen anpassen können, insbesondere im Zusammenhang mit (genomischer) Vielfalt. Ich möchte hervorheben, wie wichtig es für die Landwirtschaft, die Wissenschaft im Allgemeinen, aber auch für die Gesellschaft ist, die Mechanismen zu verstehen, die der Anpassung an verschiedene Stressfaktoren wie Krankheitserreger, steigende Temperaturen und Dürre infolge des Klimawandels zugrunde liegen.
+</div>

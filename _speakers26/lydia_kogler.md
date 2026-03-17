@@ -1,10 +1,18 @@
 ---
 name: Lydia Kogler
 image: lydia_kogler.jpg
+language: german
 ---
 
-I am a clinical psychologist, psychotherapist in training. I am working as a post-doc at the Department for Psychiatry in Tübingen, focusing on female's mental and neural health, as well as gender and sex differences in the field of affective psychoneuroendocrinology.
+<div class="speaker-bio">
+Ich bin klinische Psychologin und Psychotherapeutin in Ausbildung. Ich arbeite als Postdoktorandin an der Klinik für Psychiatrie in Tübingen und beschäftige mich dort mit der psychischen und neuronalen Gesundheit von Frauen sowie mit geschlechtsspezifischen und geschlechtsbezogenen Unterschieden im Bereich der affektiven Psychoneuroendokrinologie.
+</div>
 
-Gender-check: who is more stressed and what's behind?
+<div class="speaker-talk-title">
+    <span class="div-title">{% if page.language == "english" %}TOPIC{% else %}THEMA{% endif %}:</span> 
+Geschlechter-Check: Wer ist eigentlich gestresster und was steckt dahinter? 
+</div>
 
-In my talk, I would like to discuss sex and gender differences in the stress response and the experience of stress. Is it blue or pink or rather non-binary? At what levels do potential differences occur? What are the causes that might explain them? How do these sex differences affect mental health?
+<div class="speaker-talk-description">
+In meinem Vortrag möchte ich die geschlechtsspezifischen Unterschiede in der Stressreaktion und im Stresserleben thematisieren. Ist die Stressreaktion eher blau, rosa oder eigentlich nicht-binär? In welchem ​​Ausmaß treten diese Unterschiede auf? Welche Ursachen könnten sie erklären? Und wie wirken sich diese geschlechtsspezifischen Unterschiede auf die psychische Gesundheit aus?
+</div>
