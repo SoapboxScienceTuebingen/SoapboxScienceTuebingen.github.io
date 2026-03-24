@@ -1,5 +1,5 @@
 ---
-name: Mayumi Mohan
+name: Dr Mayumi Mohan
 image: mayumi_mohan.jpg
 language: english
 ---

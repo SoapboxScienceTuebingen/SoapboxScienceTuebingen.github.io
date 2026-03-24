@@ -1,5 +1,5 @@
 ---
-name: Floor Burghoorn
+name: Dr Floor Burghoorn
 image: floor_burhoorn.jpg
 language: english
 ---

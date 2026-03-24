@@ -1,5 +1,5 @@
 ---
-name: Lydia Kogler
+name: Dr Lydia Kogler
 image: lydia_kogler.jpg
 language: german
 ---

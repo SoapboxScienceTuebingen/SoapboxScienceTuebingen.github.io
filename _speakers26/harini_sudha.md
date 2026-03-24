@@ -1,6 +1,6 @@
 ---
 name: Harini Sudha
-image: placeholder.jpg
+image: harini_sudha.jpg
 language: english
 ---
 
