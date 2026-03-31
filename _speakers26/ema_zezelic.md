@@ -1,6 +1,6 @@
 ---
-name: Ema Zecelic
-image: ema_zecelic.jpg
+name: Ema Zezelic
+image: ema_zezelic.jpg
 language: english
 ---
 
