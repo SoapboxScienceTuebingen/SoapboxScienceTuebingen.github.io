@@ -1,5 +1,5 @@
 ---
-name: Brughanya Manian
+name: Brughanya Subramanian
 image: brughanya_subramanian.jpg
 language: english
 ---

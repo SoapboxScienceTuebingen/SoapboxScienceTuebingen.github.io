@@ -86,13 +86,30 @@ Tübingen Holzmarkt
 
 
 ## Contact
+<div style="display: flex; flex-wrap: wrap; gap: 3%; row-gap: 18px; align-items: center; justify-content: center;">
+  <div style="display: flex; align-items: center; justify-content: center; gap: 12px; width: 32%;">
+    <img src="./assets/logos/icon_email.jpg" alt="Email" style="height: 44px; width: 44px; object-fit: contain;" />
+    <a href="mailto:soapboxscience.tuebingen@gmail.com">soapboxscience.tuebingen@gmail.com</a>
+  </div>
 
-[soapboxscience.tuebingen@gmail.com](mailto:soapboxscience.tuebingen@gmail.com)
+  <div style="display: flex; align-items: center; justify-content: center; gap: 12px; width: 32%;">
+    <img src="./assets/logos/icon_Instagram.jpg" alt="Instagram" style="height: 44px; width: 44px; object-fit: contain;" />
+    <a href="https://www.instagram.com/soapboxscience_tuebingen/?hl=en">Instagram</a>
+  </div>
+</div>
 
-<div style="display: inline-flex; width=100%; align-items: center;">
+## Partners & Sponsors
+
+<div style="display: flex; flex-wrap: wrap; width: 100%; align-items: center; justify-content: center;">
 
  <img src="./assets/logos/logo_imprs.png" width="32%" style="object-fit: contain;" />
  <img src="./assets/logos/logo_mpg-kyb.webp" width="32%" style="object-fit: contain;" />
  <img src="./assets/logos/logo_uni-tue.png" width="32%" style="object-fit: contain;" />
+
+ <div style="flex-basis: 100%; height: 0;"></div>
+
+ <img src="./assets/logos/logo_ecml.jpg" width="32%" style="object-fit: contain;" />
+ <img src="./assets/logos/logo_rhetai.png" width="32%" style="object-fit: contain;" />
+ <img src="./assets/logos/logo_mpg-diversity.jpeg" width="32%" style="object-fit: contain; padding: 6px;" />
 
 </div>
