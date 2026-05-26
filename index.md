@@ -56,6 +56,9 @@ world!
 Tübingen Holzmarkt
 {: style="color:#159957; font-size: 150%; font-weight: bold; text-align: center;"}
 
+Curious about our event? [Sign up to volunteer](https://forms.gle/wCfucpFjNLd5hV1a7) — we'd love to have you!
+{: style="font-size: 90%; color: #666; text-align: center; background-color: rgba(21, 153, 87, 0.05); padding: 6px 18px; border-radius: 6px; display: table; margin: 0 auto;"}
+
 ## Speakers
 
 <div class="grid_container">
