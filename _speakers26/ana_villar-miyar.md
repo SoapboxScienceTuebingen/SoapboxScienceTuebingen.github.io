@@ -1,11 +1,11 @@
 ---
-name: Ana Villar
-image: ana_villar.jpg
+name: Ana Villar-Miyar
+image: ana_villar-miyar.jpg
 language: english
 ---
 
 <div class="speaker-bio">
-I am a final-year PhD student in Cancer Biology. Originally from Sapin, I did my master in Tübingen. Now, almost at the end of the PhD, I am looking forward to move in the neuropsychology field as I fell in love with our minds and their great power on us.
+I am a final-year PhD student in Cancer Biology. Originally from Spain, I did my master in Tübingen. Now, almost at the end of the PhD, I am looking forward to move in the neuropsychology field as I fell in love with our minds and their great power on us.
 </div>
 
 <div class="speaker-talk-title">
